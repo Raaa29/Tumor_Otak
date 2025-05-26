@@ -1,4 +1,3 @@
-# Tumor_Otak
 # 🧠 Klasifikasi Gambar Tumor Otak dengan CNN
 
 Halo! Selamat datang di proyek menarik ini yang memanfaatkan kekuatan Deep Learning untuk membantu dalam deteksi dini tumor otak melalui analisis gambar MRI.
@@ -69,19 +68,17 @@ Alur kerja sistem deteksi tumor otak ini adalah sebagai berikut:
 
 Setelah proses pelatihan, model dievaluasi untuk melihat performanya. Plot akurasi dan loss pada set pelatihan dan validasi dapat dilihat di notebook untuk memvisualisasikan proses pembelajaran model.
 
-*(Anda dapat menambahkan placeholder di sini jika Anda ingin menambahkan gambar plot akurasi dan loss di masa depan.)*
-
 ## ✅ Hasil Prediksi
 
 Bagian "Test Model" di notebook memungkinkan pengguna untuk mengunggah gambar MRI mereka sendiri dan mendapatkan prediksi dari model yang telah dilatih.
 
 ![Hasil Prediksi](hasil_prediksi.png)
 
-Contoh output prediksi akan berupa teks yang menunjukkan apakah model mendeteksi adanya tumor atau tidak.
+Contoh output prediksi akan berupa teks yang menunjukkan apakah model mendeteksi adanya tumor atau tidak. Pada gambar tersebut tidak terdeteksi adanya tumor 
 
 ## 🤝 Kontribusi
 
 Jika Anda memiliki saran atau ingin berkontribusi pada proyek ini, silakan hubungi saya atau buat pull request.
 
 
- dibuat dengan ❤️ oleh [Nama Anda]
+ dibuat dengan ❤️ oleh [Farraheira Panundaratrisna Fauziah]
