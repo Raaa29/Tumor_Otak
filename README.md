@@ -75,7 +75,7 @@ Setelah proses pelatihan, model dievaluasi untuk melihat performanya. Plot akura
 
 Bagian "Test Model" di notebook memungkinkan pengguna untuk mengunggah gambar MRI mereka sendiri dan mendapatkan prediksi dari model yang telah dilatih.
 
-*([Anda dapat menambahkan placeholder di sini jika Anda ingin menambahkan contoh gambar yang diuji dan hasil prediksinya.](https://freeimage.host/i/3bsgP6l))*
+*([https://iili.io/3bsgP6l.png])*
 
 Contoh output prediksi akan berupa teks yang menunjukkan apakah model mendeteksi adanya tumor atau tidak.
 
